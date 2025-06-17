@@ -1,4 +1,6 @@
 # CHARIY-BOOK-EXCHANGE-PLATFORM
+Books Sharing Technology Database’ and numbered Copyright No. RZ64704 has been registered in the name of ATHANAS OWAKO.
+
 SUMMARY OF PLATFORM INSTRUCTIONS
 Platform Goal
 Create an SMS-based book donation and request system where:
