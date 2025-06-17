@@ -5,7 +5,7 @@ SUMMARY OF PLATFORM INSTRUCTIONS
 Platform Goal
 Create an SMS-based book donation and request system where:
 
-Donors send book details via SMS to short code e.g. 444786.
+Donors send book details via SMS to short code EXAMPLE 444786.
 
 Beneficiaries request books via the same short code.
 
@@ -119,7 +119,7 @@ To Beneficiary:
 psql
 Book match found: "Mathematics Essentials", Form 2 (2018)
 Location: Kileleshwa Ward, Nairobi County
-Contact: +254712345678
+Contact: +254712xxxxxx
 Please reach out to arrange collection.
 
 To Donor:
